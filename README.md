@@ -29,4 +29,4 @@ LCD screen will provide enough information to user for Mask Detection And Face R
 Web Server will act as Admin Panel which can be updated using HTML code in String.
 
 
-*/ To Upload the code connect UOR to Tx & UOX to Tr of TTL/FTDI board and Short GND and IO0 pins to enter programming mode*/
+*To Upload the code connect UOR to Tx & UOX to Tr of TTL/FTDI board and Short GND and IO0 pins to enter programming mode*
